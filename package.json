@@ -1,0 +1,13 @@
+{
+  "name": "dhx-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elihu Diaz Alvarez <cstffx@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.6.5"
+  },
+  "dependencies": {
+    "dhx-suite": "^7.2.3"
+  }
+}
